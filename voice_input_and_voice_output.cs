@@ -24,14 +24,16 @@ class Program
 
     static string CaptureUserAudioInput()
     {
-        // Implement audio capture logic here
-        throw new NotImplementedException();
+        // Placeholder implementation
+        Console.WriteLine("CaptureUserAudioInput called");
+        return "User Audio Input";
     }
 
     static async Task<string> ConvertAudioToText(string audioInput)
     {
-        // Implement Speech-to-Text conversion logic here
-        throw new NotImplementedException();
+        // Placeholder implementation
+        Console.WriteLine($"ConvertAudioToText called with input: {audioInput}");
+        return "Converted Text";
     }
 
     static async Task<string> GetResponseFromChatGPT(string inputText)
@@ -51,7 +53,6 @@ class Program
         string responseText = await response.Content.ReadAsStringAsync();
 
         // Extract the ChatGPT response from the API response
-        // This is a simplified example; you may need to parse the JSON response properly.
         string chatGptResponse = ExtractResponse(responseText);
 
         return chatGptResponse;
@@ -59,19 +60,21 @@ class Program
 
     static string ExtractResponse(string apiResponse)
     {
-        // Implement logic to extract the ChatGPT response from the API response JSON
-        throw new NotImplementedException();
+        // Placeholder implementation
+        Console.WriteLine($"ExtractResponse called with input: {apiResponse}");
+        return "Extracted Response";
     }
 
     static async Task<string> ConvertTextToAudio(string text)
     {
-        // Implement Text-to-Speech conversion logic here
-        throw new NotImplementedException();
+        // Placeholder implementation
+        Console.WriteLine($"ConvertTextToAudio called with input: {text}");
+        return "Converted Audio";
     }
 
     static void PlayAudioResponse(string audio)
     {
-        // Implement audio playback logic here
-        throw new NotImplementedException();
+        // Placeholder implementation
+        Console.WriteLine($"PlayAudioResponse called with input: {audio}");
     }
 }

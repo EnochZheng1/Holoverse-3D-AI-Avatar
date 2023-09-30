@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp.csproj",
         "packagesPath": "C:\\Users\\enoch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enoch\\AppData\\Roaming\\NuGet\\NuGet.Config"
