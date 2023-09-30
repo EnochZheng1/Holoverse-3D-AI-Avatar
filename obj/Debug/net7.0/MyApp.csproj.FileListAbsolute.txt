@@ -12,3 +12,6 @@ C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0
 C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0\MyApp.pdb
 C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
 C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0\ref\MyApp.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\obj\Debug\net7.0\MyApp.csproj.CopyComplete
