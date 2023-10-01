@@ -9,8 +9,8 @@ class Program
 
     // Keywords in user input that can add modified message to Chat
     Dictionary<string, string> keywords = new Dictionary<string, string>{
-        {"outline": ", please add an outline"},
-        {"learn": ", please add a step by step"},
+        {"outline", ", please add an outline"},
+        {"learn", ", please add a step by step"},
     };
 
     static async Task Main()
