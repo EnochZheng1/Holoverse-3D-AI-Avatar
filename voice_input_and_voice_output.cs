@@ -1,9 +1,18 @@
 using System;
+using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 
 class Program
 {
+    string apiKey = "";
+
+    // Keywords in user input that can add modified message to Chat
+    Dictionary<string, string> keywords = new Dictionary<string, string>{
+        {"outline": ", please add an outline"},
+        {"learn": ", please add a step by step"},
+    };
+
     static async Task Main()
     {
         // Capture user's audio input
@@ -36,9 +45,19 @@ class Program
         return "Converted Text";
     }
 
+    static async Task<string> keyword_converter(string input)
+    {
+        foreach (var pair in keywords)
+        {
+            if (input.Contains(pair.Key)){
+                input += " " + pair.value;
+            }
+        }
+        return input
+    }
+
     static async Task<string> GetResponseFromChatGPT(string inputText)
     {
-        string apiKey = "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";
         using HttpClient httpClient = new HttpClient();
         httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
