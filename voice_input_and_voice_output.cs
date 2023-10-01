@@ -45,15 +45,15 @@ class Program
         return "Converted Text";
     }
 
-    static async Task<string> keyword_converter(string input)
+    static async Task<string> keyword_converter(string input, Dictionary<string, string> keywords)
     {
         foreach (var pair in keywords)
         {
             if (input.Contains(pair.Key)){
-                input += " " + pair.value;
+                input += " " + pair.Value;
             }
         }
-        return input
+        return input;
     }
 
     static async Task<string> GetResponseFromChatGPT(string inputText)
