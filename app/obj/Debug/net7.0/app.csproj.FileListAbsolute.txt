@@ -1,0 +1,15 @@
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\bin\Debug\net7.0\app.exe
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\bin\Debug\net7.0\app.deps.json
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\bin\Debug\net7.0\app.dll
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\bin\Debug\net7.0\app.pdb
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.dll
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\refint\app.dll
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.pdb
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\thaov\vscode-workspace\CS639\Holoverse-3D-AI-Avatar\app\obj\Debug\net7.0\ref\app.dll
