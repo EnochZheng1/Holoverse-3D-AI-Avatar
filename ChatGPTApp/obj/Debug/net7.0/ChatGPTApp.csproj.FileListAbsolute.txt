@@ -1,0 +1,17 @@
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\ChatGPTApp.exe
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\ChatGPTApp.deps.json
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\ChatGPTApp.runtimeconfig.json
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\ChatGPTApp.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\ChatGPTApp.pdb
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.csproj.AssemblyReference.cache
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.AssemblyInfoInputs.cache
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.AssemblyInfo.cs
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.csproj.CoreCompileInputs.cache
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.csproj.CopyComplete
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\refint\ChatGPTApp.dll
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.pdb
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ChatGPTApp.genruntimeconfig.cache
+C:\Users\enoch\OneDrive\Desktop\Projects\Holoverse-3D-AI-Avatar\ChatGPTApp\obj\Debug\net7.0\ref\ChatGPTApp.dll
