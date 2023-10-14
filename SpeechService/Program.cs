@@ -72,7 +72,6 @@ namespace AudioLibrary
 
             // Convert text to speech
             speechService.ConvertTextToSpeech("Hello, how are you?");
-            speechService.ConvertTextToSpeech("I like your new car what is it? LMAO");
 
             // Record audio
             string audioFilePath = "temp.wav";
