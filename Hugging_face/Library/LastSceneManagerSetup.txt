@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HuggingFaceAPI/Examples/Scenes/ConversationExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
