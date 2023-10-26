@@ -36,33 +36,33 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/Classification.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/HuggingFaceAPI.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/Extensions.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/TaskEndpoint.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TaskBase.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IPayload.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/JObjectPayload.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/QuestionAnsweringTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/AutomaticSpeechRecognitionTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/APIConfig.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IAPIConfig.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextGenerationTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/ByteArrayPayload.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/ConversationTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TranslationTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextClassificationTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/QuestionAnsweringResponse.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IAPIClient.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IPayload.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/SentenceSimilarity.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IJObjectPayload.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/APIClient.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/AutomaticSpeechRecognitionTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TaskBase.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/ByteArrayPayload.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/TextClassificationResponse.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/APIClient.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/QuestionAnsweringTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextClassificationTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/JObjectPayload.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/ConversationTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/Classification.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/SentenceSimilarityTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IJObjectPayload.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/Extensions.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/ITask.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/SummarizationTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Interfaces/IAPIClient.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/SentenceSimilarityTask.cs" />
-     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextToImageTask.cs" />
      <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/Conversation.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/HuggingFaceAPI.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextToImageTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/QuestionAnsweringResponse.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Utilities/TaskEndpoint.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/APIConfig.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TextGenerationTask.cs" />
+     <Compile Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/Implementations/Tasks/TranslationTask.cs" />
      <None Include="Library/PackageCache/com.huggingface.api@31c7aae2ee/Runtime/HuggingFaceAPI.asmdef" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -320,34 +320,34 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.collab-proxy@2.0.4/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.0/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.0/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll</HintPath>
@@ -716,10 +716,10 @@
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/jaywang/Unity/Hugging_face/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/jaywang/Desktop/Holoverse-3D-AI-Avatar/Hugging_face/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
