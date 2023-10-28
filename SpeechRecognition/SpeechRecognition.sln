@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuggingFaceAPI", "HuggingFaceAPI.csproj", "{fdde1d74-30e2-6c04-9702-b93674643381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{05d44bb2-ce8b-c3ae-95b6-c054b319faff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.Runtime", "OpenAI.Runtime.csproj", "{a79e5d5f-e111-3b44-fe62-a977a1782444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuggingFaceAPI.Editor", "HuggingFaceAPI.Editor.csproj", "{5f0c05e5-f29f-6469-84e7-e53021e0cddb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAI.Editor", "OpenAI.Editor.csproj", "{25b73f57-bbc0-7381-7a02-776644c34478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{fdde1d74-30e2-6c04-9702-b93674643381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fdde1d74-30e2-6c04-9702-b93674643381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05d44bb2-ce8b-c3ae-95b6-c054b319faff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05d44bb2-ce8b-c3ae-95b6-c054b319faff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a79e5d5f-e111-3b44-fe62-a977a1782444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a79e5d5f-e111-3b44-fe62-a977a1782444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5f0c05e5-f29f-6469-84e7-e53021e0cddb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5f0c05e5-f29f-6469-84e7-e53021e0cddb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25b73f57-bbc0-7381-7a02-776644c34478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25b73f57-bbc0-7381-7a02-776644c34478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
