@@ -5,15 +5,43 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
+using System.Speech.Synthesis;
+using System.Collections.Generic;
 
 class Program
 {
     private const string API_URL = "https://api.openai.com/v1/chat/completions";
-    private const string API_KEY = "key"; // Replace with your actual API key
+    private const string API_KEY = "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"; // Replace with your actual API key
+
+    public void ConvertTextToSpeech(string text)
+    {
+        using (SpeechSynthesizer synthesizer = new SpeechSynthesizer())
+        {
+            synthesizer.Speak(text);
+        }
+    }
 
     static async System.Threading.Tasks.Task Main(string[] args)
     {
         var chatLog = new JArray();
+        bool textToSpeech = false;
+
+        Console.Clear();
+        Console.WriteLine("Do you want the assistant to use text to speech? Enter Y/N.");
+    check:
+        string input = Console.ReadLine();
+
+        if (!(input == "Y" || input == "N"))
+        {
+            Console.Clear();
+            Console.WriteLine("Please enter Y/N.");
+            goto check;
+        }
+
+        if (input == "Y")
+            textToSpeech = true;
+
+        Console.Clear();
 
         while (true)
         {
@@ -37,10 +65,14 @@ class Program
             });
 
             string modelResponse = await SendMessageToOpenAI(chatLog);
+            var speechService = new Program();
 
             if (!string.IsNullOrWhiteSpace(modelResponse))
             {
-                Console.WriteLine($"GPT-3: {modelResponse}");
+                if (textToSpeech)
+                    speechService.ConvertTextToSpeech(modelResponse);
+                else
+                    Console.WriteLine($"GPT-3: {modelResponse}");
                 chatLog.Add(new JObject
                 {
                     ["role"] = "assistant",

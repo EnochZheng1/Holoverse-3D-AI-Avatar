@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj": {}
+    "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj": {
+    "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj",
+        "projectUniqueName": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj",
         "projectName": "ChatGPTApp",
-        "projectPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj",
-        "packagesPath": "C:\\Users\\enoch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\obj\\",
+        "projectPath": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\ChatGPTApp.csproj",
+        "packagesPath": "C:\\Users\\thaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\ChatGPTApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\enoch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thaov\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -45,6 +45,10 @@
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"
+            },
+            "System.Speech": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\thaov\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

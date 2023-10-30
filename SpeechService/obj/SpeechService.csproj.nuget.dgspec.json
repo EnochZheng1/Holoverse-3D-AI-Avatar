@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj": {}
+    "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj": {
+    "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj",
+        "projectUniqueName": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj",
         "projectName": "SpeechService",
-        "projectPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj",
-        "packagesPath": "C:\\Users\\enoch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enoch\\OneDrive\\Desktop\\Projects\\Holoverse-3D-AI-Avatar\\SpeechService\\obj\\",
+        "projectPath": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\SpeechService\\SpeechService.csproj",
+        "packagesPath": "C:\\Users\\thaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thaov\\vscode-workspace\\CS639\\Holoverse-3D-AI-Avatar\\SpeechService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\enoch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thaov\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\thaov\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
