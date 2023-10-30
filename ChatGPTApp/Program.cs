@@ -11,7 +11,7 @@ using System.Collections.Generic;
 class Program
 {
     private const string API_URL = "https://api.openai.com/v1/chat/completions";
-    private const string API_KEY = "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"; // Replace with your actual API key
+    private const string API_KEY = "API KEY"; // Replace with your actual API key
 
     public void ConvertTextToSpeech(string text)
     {
